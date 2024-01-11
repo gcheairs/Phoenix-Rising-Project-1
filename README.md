@@ -33,7 +33,7 @@ Inflation reduction act - https://phrma.org/inflation-reduction-act?utm_campaign
 
 # Notes and citations - Cristian
 
-https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
+Data for inflation from: https://fred.stlouisfed.org/series/FPCPITOTLZGUSA
 
 # Notes and citations - Betsy
 
