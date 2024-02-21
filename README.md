@@ -63,8 +63,10 @@ Machine Learning has the ability to address various challenges in the HealthCare
 ​Dosages follow a very similar pattern with the highest year of dosage units in 2019 with 8 million dosage units to 2020 and 2021 where there was only about a 1 million dosage difference. Showing that dosage distribution is linked to manufacturing spending. 
 ​Plotting the standard deviation for spending and dosages. On the left blue line is the standard deviation for spending from 2019-2021, with a slight negative curve from 2019 to 2020 indicating the standard deviation is fairly large in relation to the mean for spending data.  
 ​The orange line plots the standard deviation for the dosage data, with almost a flat line indicating the standard deviation is higher than average and a more spread out data set in relation to the mean for dosage data. 
-
+![standard deviation](Resources//standarddeviation_values_plot.png)
 Now that we were oriented in the overall data we started drilling into the more detailed questions. The first question is who were the top insulin producers. To get that we took the average insulin production across 2019-2021 and plotted out where they fell. Far and away Novo Nordisk and Eli Lilly & Co with an average production of over 70 million dosage units from 2019-2021 outpaced the next 3 manufacturers that didn’t break 10 million in average production. The conclusion we drew was that the top producers aren’t necessarily benefiting from economies of scale when it comes to their average dosage price. 
+
+![Top insuline producers](Resources//top_insulin_mftrs.png)
 
 **Citations**
 
